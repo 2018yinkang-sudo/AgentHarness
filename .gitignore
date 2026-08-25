@@ -42,3 +42,12 @@ tmp/
 temp/
 data/
 benchmarks/datasets
+
+# Repository-local secrets
+.secrets/
+
+# Local Agent/Codex context
+agent.md
+AGENTS.md
+.agents/
+.codex/
